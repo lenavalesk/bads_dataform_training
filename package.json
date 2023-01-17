@@ -1,0 +1,6 @@
+{
+  "name": "dataform_training_lena",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
